@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on any open source.
 
-- 📫 How to reach me: @Immanuelchuks7
+- 📫 How to reach me: immanuelchukwudubem7@gmail.com
 
 <!---
 immachuks7/immachuks7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
