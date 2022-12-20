@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Immanuel
-- 
+
 - 👀 I’m interested in Web 3.0 and blockchain development.
-- 
+
 - 🌱 I’m currently learning Python, Javascript, CSS, React.js, HTML and Solidity.
-- 
+
 - 💞️ I’m looking to collaborate on any open source.
-- 
+
 - 📫 How to reach me: @Immanuelchuks7
 
 <!---
